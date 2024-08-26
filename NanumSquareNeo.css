@@ -1,0 +1,63 @@
+/* 나눔스퀘어 웹폰트 */
+/* NanumSquareNeo Created by. Naver */
+/* CSS by. GitHub @whitedev7773 */
+
+/* Light */
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-weight: 200;
+  src: url(NanumSquareNeo-200-Light.eot);
+  src: local("☺"),
+    url(NanumSquareNeo-200-Light.eot#iefix) format("embedded-opentype"),
+    url(NanumSquareNeo-200-Light.woff2) format("woff2"),
+    url(NanumSquareNeo-200-Light.woff) format("woff"),
+    url(NanumSquareNeo-200-Light.ttf) format("truetype");
+}
+
+/* Regular */
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-weight: 300;
+  src: url(NanumSquareNeo-300-Regular.eot);
+  src: local("☺"),
+    url(NanumSquareNeo-300-Regular.eot#iefix) format("embedded-opentype"),
+    url(NanumSquareNeo-300-Regular.woff2) format("woff2"),
+    url(NanumSquareNeo-300-Regular.woff) format("woff"),
+    url(NanumSquareNeo-300-Regular.ttf) format("truetype");
+}
+
+/* Bold */
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-weight: 700;
+  src: url(NanumSquareNeo-700-Bold.eot);
+  src: local("☺"),
+    url(NanumSquareNeo-700-Bold.eot#iefix) format("embedded-opentype"),
+    url(NanumSquareNeo-700-Bold.woff2) format("woff2"),
+    url(NanumSquareNeo-700-Bold.woff) format("woff"),
+    url(NanumSquareNeo-700-Bold.ttf) format("truetype");
+}
+
+/* ExtraBold */
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-weight: 800;
+  src: url(NanumSquareNeo-800-ExtraBold.eot);
+  src: local("☺"),
+    url(NanumSquareNeo-800-ExtraBold.eot#iefix) format("embedded-opentype"),
+    url(NanumSquareNeo-800-ExtraBold.woff2) format("woff2"),
+    url(NanumSquareNeo-800-ExtraBold.woff) format("woff"),
+    url(NanumSquareNeo-800-ExtraBold.ttf) format("truetype");
+}
+
+/* Heavy */
+@font-face {
+  font-family: "NanumSquareNeo";
+  font-weight: 900;
+  src: url(NanumSquareNeo-900-Heavy.eot);
+  src: local("☺"),
+    url(NanumSquareNeo-900-Heavy.eot#iefix) format("embedded-opentype"),
+    url(NanumSquareNeo-900-Heavy.woff2) format("woff2"),
+    url(NanumSquareNeo-900-Heavy.woff) format("woff"),
+    url(NanumSquareNeo-900-Heavy.ttf) format("truetype");
+}
